@@ -4,7 +4,7 @@
 ## Deskripsi
 
 Dalam sourcode tersebut, dilakukan data wrangling agar data yang akan ditampikan dengan menggunakan tableau akurat.
-Tujuan dari proyek ini adalah untuk melakukan analisis data pada ECommerceDataset.xlsx. Proyek ini bertujuan untuk menghasilkan pemahaman dan informasi yang berharga dari data yang dianalisis.
+Tujuan dari proyek ini adalah untuk melakukan analisis data pada ECommerceDataset.xlsx. Sehingga menghasilkan pemahaman dan informasi yang berharga dari data yang dianalisis.
 Serta memerikan saran dan rekomendasi hal apa yang harus dilakukan setelah mendapatkan insight baru agar customer churn dapat berkurang dan menambah customer baru.
 
 
