@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 pandas
 numpy
 matplotlib
 seaborn
 missingno
 scikit-learn
+=======
+pandas
+numpy
+matplotlib
+seaborn
+missingno
+scikit-learn
+>>>>>>> 5a883f4889b0e8416905a4a0da570f19c20603d6
