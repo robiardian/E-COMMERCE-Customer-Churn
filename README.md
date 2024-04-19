@@ -23,4 +23,4 @@ Setelah library terinstall, notebook siap untuk dijalankan
 Untuk informasi detail mengenai analisis ini dapat dilihat melalui link berikut :
 - Medium : https://medium.com/@robiardian1987/e-commerce-customer-churn-8fa1bae7d15f
 - Youtube : https://youtu.be/ny7Zpi1ULuE?si=-Fdac-kn1_B6z5bj
-- Tableau : https://public.tableau.com/views/E-CommerceCustomerChurn_17117061414630/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+- Tableau : [https://public.tableau.com/views/E-CommerceCustomerChurn_17117061414630/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/NewEcommerce/Dashboard2?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
